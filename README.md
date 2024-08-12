@@ -11,3 +11,5 @@ This Project aim is to explore and understand reinforcement learning through the
 
 To achieve the best possible outcome, the agent followed an epsilon-greedy policy that balanced exploration of new actions with the exploitation of known actions based on Q-values. The Q-Value was updated using the Bellman equation, which was a culmination of reward, discount rate, and the learning data.
 
+https://drive.google.com/file/d/1mgicjBPL6vC8D__NWPo7aVADFGnSnYFc/view?usp=sharing
+
